@@ -3,3 +3,6 @@ This knowledgebase is used to support the transfer of information from the Appli
  1. Application Security Overview and Process
  2. Software Installation and Troubleshooting
  3. Code Remediation Guides
+
+
+Please pass along any questions or content suggestions to our slack channel #cs-appsec
